@@ -1,0 +1,5 @@
+Consumer Electronics Control (CEC)
+==================================
+Is an HDMI feature designed to allow the user to command and control up to ten CEC-enabled devices connected through HDMI by using just one of their remote controls (for example by controlling a television set, set-top box, PVR/DVR, and DVD player using only the remote control of the TV). CEC also allows for individual CEC-enabled devices to command and control each other without user intervention.
+
+http://elinux.org/CEC_(Consumer_Electronics_Control)_over_HDMI
